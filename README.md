@@ -7,8 +7,9 @@ Beyond coding, I find enjoyment in watching sports and planning my upcoming trav
 
 Feel free to take a look around my repositories and/or reach out to me if you'd like to connect!
 
-LinkedIn: linkedin.com/in/tammy-t-tran/
-Email: tammytran96@gmail.com
+💥 linkedin.com/in/tammy-t-tran/
+
+💬 tammytran96@gmail.com
 
 <!--
 **tammytran96/tammytran96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
