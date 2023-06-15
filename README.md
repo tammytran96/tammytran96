@@ -6,6 +6,7 @@ I'm Tammy Tran, a passionate Software Engineer from the vibrant city of San Dieg
 Beyond coding, I find enjoyment in watching sports and planning my upcoming travel adventures. These hobbies provide the perfect balance to my tech-oriented pursuits, allowing me to unwind and gain fresh perspectives.
 
 Feel free to take a look around my repositories and/or reach out to me if you'd like to connect!
+
 LinkedIn: linkedin.com/in/tammy-t-tran/
 Email: tammytran96@gmail.com
 
