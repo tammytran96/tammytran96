@@ -7,7 +7,7 @@ Beyond coding, I find enjoyment in watching sports and planning my upcoming trav
 
 Feel free to take a look around my repositories and/or reach out to me if you'd like to connect!
 
-💥 linkedin.com/in/tammy-t-tran/
+💥 [linkedin.com/in/tammy-t-tran/]
 
 💬 tammytran96@gmail.com
 
