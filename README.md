@@ -1,7 +1,7 @@
 # Hi, I'm Tammy! 👩‍💻
 
 ## 🌻 About Me
-Hi, my name is Tammy, and welcome to my portfolio! I’m a full-stack developer and designer from San Diego, California, passionate about learning, exploring new ideas, and solving problems!
+Hi, my name is Tammy, and I’m a full-stack developer and designer from San Diego, California, passionate about learning, exploring new ideas, and solving problems!
 
 Growing up, I've always enjoyed expressing my creativity through drawing, painting, and crafting with ceramics, paper mache, and wood. As I’ve gotten older, I realized that I developed into being more technical-minded with a curiosity about how things work. Combining these interests, I pursued education in graphic design and software development, in addition to earning my sociology degree.
 
