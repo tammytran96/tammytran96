@@ -21,6 +21,8 @@ I’d love to connect; please feel free to reach out!
 
 💬 tammytran96@gmail.com
 
+⚡ [Portfolio: tammytran96.github.io](https://www.linkedin.com/in/tammy-t-tran/](https://tammytran96.github.io/)
+
 <!--
 **tammytran96/tammytran96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
